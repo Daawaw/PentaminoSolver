@@ -1,0 +1,18 @@
+﻿  Solver.cpp
+c:\users\шиба\source\repos\pentamino\pentamino\solver.cpp(164): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\шиба\source\repos\pentamino\pentamino\solver.cpp(166): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\шиба\source\repos\pentamino\pentamino\solver.cpp(200): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\шиба\source\repos\pentamino\pentamino\solver.cpp(202): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\шиба\source\repos\pentamino\pentamino\solver.cpp(204): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\шиба\source\repos\pentamino\pentamino\solver.cpp(212): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\шиба\source\repos\pentamino\pentamino\solver.cpp(214): warning C4018: <: несоответствие типов со знаком и без знака
+  Pentamino.cpp
+  Создание кода...
+c:\users\шиба\source\repos\pentamino\pentamino\solver.cpp(129): warning C4715: Solver::SizeField: значение возвращается не при всех путях выполнения
+  Компиляция...
+  Main.cpp
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Source1.cpp
+  Pentamino.vcxproj -> C:\Users\Шиба\source\repos\Pentamino\Debug\Pentamino.exe
+  Pentamino.vcxproj -> C:\Users\Шиба\source\repos\Pentamino\Debug\Pentamino.pdb (Partial PDB)
